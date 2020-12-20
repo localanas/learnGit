@@ -11,3 +11,4 @@ echo "auhtre test";
 echo  "elonier a develop";
 echo "dollar";
 echo "dollar 2";
+echo "dollard 3 in master";
