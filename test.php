@@ -16,5 +16,9 @@ echo "dollard 3 in master";
 echo "dollard 4 in au author conflict";
 =======
 echo "dollar 3";
+<<<<<<< HEAD
 
 >>>>>>> dollar 3
+=======
+echo "rebasing dollar 3 in local";
+>>>>>>> my commit
