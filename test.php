@@ -10,3 +10,4 @@ echo "my test depuis remote  ";
 echo "auhtre test";
 echo  "elonier a develop";
 echo "dollar";
+echo "dollar 2";
