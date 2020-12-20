@@ -12,4 +12,9 @@ echo  "elonier a develop";
 echo "dollar";
 echo "dollar 2";
 echo "dollard 3 in master";
+<<<<<<< HEAD
 echo "dollard 4 in au author conflict";
+=======
+echo "dollar 3";
+
+>>>>>>> dollar 3
