@@ -9,3 +9,4 @@ echo "my modif with my branch ";
 echo "my test depuis remote  ";
 echo "auhtre test";
 echo  "elonier a develop";
+echo "dollar";
